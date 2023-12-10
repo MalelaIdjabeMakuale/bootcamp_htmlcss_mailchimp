@@ -1,0 +1,72 @@
+ img {
+  width: 100px;
+  height: 100px;
+}
+#logomono {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+
+#formulario {
+  position: relative;
+  right: -200px;
+  top: -120px;
+}
+.lista1 {
+  position: relative;
+  left: -30px;
+}
+.lista2 {
+  position: relative;
+  top: -70px;
+  right: -200px;
+}
+
+#cajas {
+  width: 600px;
+  height: 30px;
+  border-width: 1px;
+  border-color: rgb(195, 193, 193);
+  border-style: solid;
+}
+
+#show {
+  height: 25px;
+  width: 55px;
+  position: relative;
+  right: -400px;
+  top: -40px;
+}
+
+ul li::marker {
+  color: rgb(17, 154, 175);
+}
+
+#signup{
+display: inline-block;
+outline: none;
+cursor: pointer;
+font-size: 14px;
+padding: 0 12px;
+line-height: 20px;
+height: 30px;
+max-height: 30px;
+background: #fff;
+font-weight: 700;
+border: 2px solid #DAE3F3;
+border-radius: 0;
+color: #272C34;
+    box-shadow: 0 2px 2px rgb(39 44 52 / 12%);
+}
+
+/* .check {
+width:300px;
+height:30px;
+} */
+
+/* #show {position: absolute;
+  top: 190px;
+  
+} */
